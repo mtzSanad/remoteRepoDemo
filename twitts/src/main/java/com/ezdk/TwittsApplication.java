@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TwittsApplication {
-
+	//Another Test
 	public static void main(String[] args) {
 		SpringApplication.run(TwittsApplication.class, args);
 	}
