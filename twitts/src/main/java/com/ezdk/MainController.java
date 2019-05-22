@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping({"/","/home"})
 public class MainController {
 	//Testing History changes
+	//Main again
 	@RequestMapping(method=RequestMethod.GET)
 	public String home() {
 		System.out.println(2);
